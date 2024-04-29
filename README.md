@@ -12,3 +12,5 @@ This repository contains a machine learning project focused on predicting drug a
 - **Multiple Classifiers**: Utilizes different machine learning models to predict drug activity.
 - **Performance Evaluation**: Compares the effectiveness of each classifier based on various metrics.
 - **Visualization**: Includes learning curves and other plots to visually represent the model performance.
+
+**Note**: This code and repository are for showcasing my projects and are not intended for external use. 

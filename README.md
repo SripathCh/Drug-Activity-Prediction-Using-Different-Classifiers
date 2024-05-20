@@ -1,4 +1,4 @@
-# Drug Activity Prediction Using Different Classifiers
+# Predictive Modeling for Drug Activity Using Binary Classification Techniques
 
 ## Project Overview
 This repository contains a machine learning project focused on predicting drug activity using various classifiers. The primary objective is to analyze and compare the performance of different classification algorithms on a dataset related to drug activity.
